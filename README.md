@@ -1,3 +1,8 @@
+# Repo description
+
+Este repositório foi criado para iniciar com estudos da ferramenta de estilização de componente Emotion.
+Link da doc: https://emotion.sh/docs/introduction
+
 # MonoVite
 
 <a href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
