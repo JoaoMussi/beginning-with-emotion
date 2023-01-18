@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import NxWelcome from './nx-welcome';
+import Button from './button/button';
 
 const StyledApp = styled.div`
   // Your style here
@@ -8,7 +8,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      <NxWelcome title="mono-vite" />
+      <Button type="button" variant="primary" href="www.google.com">Botão</Button>
     </StyledApp>
   );
 }
